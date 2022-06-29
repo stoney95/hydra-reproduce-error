@@ -1,0 +1,5 @@
+name: test-hydra
+dependencies: 
+  - python=3.8
+  - pip:
+    - hydra-core

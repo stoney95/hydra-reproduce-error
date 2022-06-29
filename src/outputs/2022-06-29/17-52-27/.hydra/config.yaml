@@ -1,0 +1,3 @@
+_target_: common.config.Config
+foo: 1
+bar: test
